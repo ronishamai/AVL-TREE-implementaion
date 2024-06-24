@@ -23,11 +23,3 @@ The AVL tree supports the following operations:
 
 ## Usage
 To use the AVL tree in your Java application, you can instantiate `AVLTree` and use its methods to perform operations like insertion, deletion, searching, and more.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Make sure to customize the README with any specific details about your implementation, such as additional helper classes or any modifications you've made beyond the given specifications. This template should provide a solid foundation to showcase your AVL tree implementation on GitHub.
